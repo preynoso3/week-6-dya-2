@@ -132,7 +132,10 @@ print(my_bool)
 
 
 ########################################decision making in python#####################################
-
+if 5 == 2:
+  print("it is correct")
+else:
+  print("it isn't correct")
 
 
 # Decision Making Practice #1
